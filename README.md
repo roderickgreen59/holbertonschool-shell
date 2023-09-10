@@ -1,2 +1,1 @@
-# holbertonschool-shell
-project 2
+Shell, Basics 
