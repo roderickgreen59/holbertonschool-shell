@@ -1,2 +1,2 @@
 #!/bin/bash
-mv holbertonschool-shell/*[A-Z]* /tmp/u
+mv holbertonschool-shell/[A-Z] /tmp/u
