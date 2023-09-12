@@ -1,0 +1,2 @@
+#!/bin/bash
+mv holbertonschool-shell/*[A-Z]* /tmp/u
