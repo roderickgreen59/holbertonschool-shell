@@ -1,2 +1,2 @@
 #!/bin/bash
-mv 15-lets_move/[upper] tmp/u
+mv scr /[upper] /tmp/u
