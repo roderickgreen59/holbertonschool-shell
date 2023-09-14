@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t | head -n1
+ls -Art1 ${CURRENT_DIR} | tail -n 1
