@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$sorted" | uniq -iu
+echo sort | uniq -u 
