@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $word | tr Ac Ze
+output_string=$(echo "$input_string" | tr 'Ac' 'Ze')
