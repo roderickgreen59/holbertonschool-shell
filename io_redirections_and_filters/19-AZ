@@ -1,2 +1,2 @@
 #!/bin/bash
-output=$ {input//[Aa/Z} 
+echo $word | tr -d Cc 
