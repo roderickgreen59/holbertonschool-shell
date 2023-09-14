@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $word | tr -d Cc 
+echo $word | tr Ac Ze 
