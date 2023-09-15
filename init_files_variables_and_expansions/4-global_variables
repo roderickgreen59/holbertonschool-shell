@@ -1,2 +1,2 @@
 #!/bin/bash
-export VAR="$VAR"
+export ls="$printenv"
