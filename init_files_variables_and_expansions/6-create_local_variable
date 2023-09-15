@@ -1,2 +1,2 @@
 #!/bin/bash
-var Best="$Schools"
+var BEST="$Schools"
