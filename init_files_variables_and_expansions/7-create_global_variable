@@ -1,2 +1,2 @@
 #!/bin/bash
-setvar
+GLOBAL_VAR="best/school/"
