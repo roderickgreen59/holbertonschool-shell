@@ -4,5 +4,5 @@
 #user name, user Id, home directory path for user
 
 while read passwd; do
-  echo "$passwd" | cut -d ":" -f1,3,6
+  echo "$passwd" | cut -d ':' -f1,3,6
 done < "/etc/passwd"
