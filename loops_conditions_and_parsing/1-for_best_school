@@ -1,4 +1,5 @@
 #!/user/bin/env bash
+# This script is displaying "Best Schools" 10 times
 
 for (( i=0; i<10; i++ ))
 do
